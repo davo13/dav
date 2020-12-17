@@ -1,0 +1,77 @@
+body
+{
+	background-image: url("images/fond.jpg");
+	color: white;
+}
+
+.saakian
+{
+	color: orange;
+}
+
+h1
+{
+	color: red;
+}
+
+h1
+{
+	text-align: center;
+	box-shadow: 6px 0px 30px black;
+}
+
+h2
+{
+	color: orange;
+	text-decoration: underline;
+}
+
+h1
+{
+	font-size: 50px;
+	font-family: Impact, "Arial Black", sans-serif;
+}
+
+p
+{
+	color: red;
+}
+
+label
+{
+	color: green;
+}
+
+h2
+{
+	color: orange;
+	text-decoration: underline;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: red;
+  color: black;
+}
